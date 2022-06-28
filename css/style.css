@@ -1,0 +1,79 @@
+body {
+  background-color: #121C35 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1 {}
+
+h2 {}
+
+h3 {}
+
+h4 {}
+
+h5 {}
+
+h6 {}
+
+.navbar-brand {
+  color: #fffff7 !important;
+}
+
+.nav-link {
+  font-family: 'Roboto Mono', monospace;
+  color: #ffffff !important;
+  font-size: 20px !important;
+}
+
+.nav-item {
+  margin: 0 35px;
+}
+
+.navbar-icon, .navbar-toggler {
+  color: #ffffff !important;
+}
+
+.fa-right-to-bracket {
+  margin-left: 10px !important;
+}
+
+.hero-section {
+  padding-top: 30px !important;
+  height: 100vh;
+  background-repeat: round;
+  background-size: cover !important;
+}
+
+.search {
+  margin: auto !important;
+  text-align: center !important;
+}
+
+.searsh{
+  width: 50%;
+  text-align: center;
+  margin-top: 15%;
+  height: 50px;
+  border-radius: 50px;
+  border: 3  px solid blue;
+  color: black;
+  font-family: 'Roboto Mono', monospace !important;
+}
+.btn1{
+  font-size:  40px !important;
+  width: 70%;
+  border-radius: 50px !important;
+  text-shadow: 10px white;
+  margin: 2.5% auto 2.5% auto;
+box-shadow: 0px 10px 50px blue;
+}
+.foot{
+  position: relative;
+  margin: auto;
+  color: white;
+  text-align: center;
+  bottom: 0px !important;
+}
